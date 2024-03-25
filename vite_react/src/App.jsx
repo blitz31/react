@@ -1,8 +1,8 @@
 function App() {
- 
+ let username = "blitz"
 
   return (
-    <h1>React with Vite | HELLO</h1>
+    <h1>{username} likes game dev</h1>
   )
 }
 
